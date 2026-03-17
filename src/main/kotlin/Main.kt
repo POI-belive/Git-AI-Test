@@ -41,8 +41,19 @@ fun main() {
     println("Code is fun!")
     println("Let's keep coding!")
 
+    println("入类编写的代码1")
+    println("入类编写的代码2")
+    println("入类编写的代码3")
+
     println("Hello, Kotlin!")
     println("Hello, Git!")
     println("Hello, AI!")
     println("Hello, Developer!")
+
+    // git-ai 测试代码 - 2026-03-17
+    println("AI generated line 1")
+    println("AI generated line 2")
+    println("AI generated line 3")
+    println("AI generated line 4")
+    println("AI generated line 5")
 }
