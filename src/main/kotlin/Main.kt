@@ -15,4 +15,11 @@ fun main() {
         // 但您始终可以通过按 <shortcut actionId="ToggleLineBreakpoint"/> 添加更多断点。
         println("i = $i")
     }
+
+    // Hello World 输出
+    println("Hello, World!")
+    println("Hello, Kotlin!")
+    println("Hello, Git!")
+    println("Hello, AI!")
+    println("Hello, Developer!")
 }
