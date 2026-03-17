@@ -33,4 +33,16 @@ fun main() {
     println("Hello, Git!")
     println("Hello, AI!")
     println("Hello, Developer!")
+
+    // 新增代码
+    val greeting = "Welcome"
+    val target = "to Kotlin!"
+    println("$greeting $target")
+    println("Code is fun!")
+    println("Let's keep coding!")
+
+    println("Hello, Kotlin!")
+    println("Hello, Git!")
+    println("Hello, AI!")
+    println("Hello, Developer!")
 }
