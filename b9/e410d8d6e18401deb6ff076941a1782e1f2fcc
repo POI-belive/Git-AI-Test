@@ -1,0 +1,23 @@
+src/main/kotlin/Main.kt
+  aa1378b66c40e31b 52-58
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.2",
+  "base_commit_sha": "b9e410d8d6e18401deb6ff076941a1782e1f2fcc",
+  "prompts": {
+    "aa1378b66c40e31b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "07e4ea94-3390-4952-873e-f59332e08b98",
+        "model": "glm-4.7"
+      },
+      "human_author": "neko <2038368045@qq.com>",
+      "messages": [],
+      "total_additions": 13,
+      "total_deletions": 6,
+      "accepted_lines": 7,
+      "overriden_lines": 0
+    }
+  }
+}
