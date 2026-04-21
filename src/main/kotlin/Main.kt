@@ -58,4 +58,6 @@ fun main() {
     println("修改上一个commit")
 
     println("通过终端修正上一次提交")
+
+    println("回退版本至v1.1.1的第一次正常提交")
 }
